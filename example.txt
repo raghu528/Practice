@@ -1,0 +1,1 @@
+in the content we have to retrive the information int o the globsl and local variable which are the main into the main branch
